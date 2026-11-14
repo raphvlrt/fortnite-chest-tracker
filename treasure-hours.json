@@ -1,6 +1,11 @@
 {
-  "note": "Treasure Hours read by Fortnite Chest Tracker (times in UTC). confirmed = announced by Epic (@FortniteStatus). Editing this file updates every app within 30 minutes, no new version needed.",
-  "updatedAt": "2026-11-14T20:15:53.226Z",
+  "note": "Read by Fortnite Chest Tracker 1.0.3+ at launch and every 30 minutes: editing this file updates every app, no new version needed. Times in UTC. confirmed = announced by Epic (@FortniteStatus). boosts = the usual Treasure Hours multiplier per reward (ids from the app odds table); a session can have its own boosts for that session only.",
+  "updatedAt": "2026-11-14T20:30:13.312Z",
+  "boosts": {
+    "weekly-gold-outfit": 7.5,
+    "pirate-shop-access": 1.5,
+    "weekly-vehicle-decal": 10
+  },
   "sessions": [
     {
       "start": "2026-11-07T19:00:00Z",
