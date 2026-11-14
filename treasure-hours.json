@@ -1,0 +1,46 @@
+{
+  "note": "Treasure Hours read by Fortnite Chest Tracker (times in UTC). confirmed = announced by Epic (@FortniteStatus). Editing this file updates every app within 30 minutes, no new version needed.",
+  "updatedAt": "2026-11-14T20:15:53.226Z",
+  "sessions": [
+    {
+      "start": "2026-11-07T19:00:00Z",
+      "end": "2026-11-07T21:00:00Z",
+      "confirmed": true
+    },
+    {
+      "start": "2026-11-08T02:00:00Z",
+      "end": "2026-11-08T04:00:00Z",
+      "confirmed": true
+    },
+    {
+      "start": "2026-11-14T19:00:00Z",
+      "end": "2026-11-14T23:00:00Z",
+      "confirmed": true
+    },
+    {
+      "start": "2026-11-15T02:00:00Z",
+      "end": "2026-11-15T04:00:00Z",
+      "confirmed": false
+    },
+    {
+      "start": "2026-11-21T19:00:00Z",
+      "end": "2026-11-21T21:00:00Z",
+      "confirmed": false
+    },
+    {
+      "start": "2026-11-22T02:00:00Z",
+      "end": "2026-11-22T04:00:00Z",
+      "confirmed": false
+    },
+    {
+      "start": "2026-11-28T19:00:00Z",
+      "end": "2026-11-28T21:00:00Z",
+      "confirmed": false
+    },
+    {
+      "start": "2026-11-29T02:00:00Z",
+      "end": "2026-11-29T04:00:00Z",
+      "confirmed": false
+    }
+  ]
+}
