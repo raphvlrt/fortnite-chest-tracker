@@ -1,0 +1,11 @@
+{
+  "note": "Season rewards read by Fortnite Chest Tracker 1.0.4 and later. Add a week here (pictures in the rewards folder): the app shows it within an hour, without a new version. item: weekly-gold-outfit, weekly-pickaxe-backbling, weekly-vehicle-decal, weekly-jam-track, weekly-loading-screen or pirate-shop-access. kind: Outfit, Pickaxe, Back Bling, Car, Jam Track, Loading Screen or Item Shop.",
+  "updatedAt": "2026-11-15",
+  "rewards": [
+    { "id": "w3-outfit", "item": "weekly-gold-outfit", "week": 3, "name": "Solid Gold Miku", "kind": "Outfit", "image": "https://raw.githubusercontent.com/raphvlrt/fortnite-chest-tracker/main/rewards/w3-outfit-solid-gold-miku.png" },
+    { "id": "w3-backbling", "item": "weekly-pickaxe-backbling", "week": 3, "name": "Miku's Takarabako", "kind": "Back Bling", "image": "https://raw.githubusercontent.com/raphvlrt/fortnite-chest-tracker/main/rewards/w3-backbling-mikus-takarabako.png" },
+    { "id": "w3-vehicle", "item": "weekly-vehicle-decal", "week": 3, "name": "Chevrolet Corvette ZR1", "kind": "Car", "extra": "+ Golden Llama Crew decal", "image": "https://raw.githubusercontent.com/raphvlrt/fortnite-chest-tracker/main/rewards/w3-vehicle-chevrolet-corvette-zr1.png" },
+    { "id": "w3-jam", "item": "weekly-jam-track", "week": 3, "name": "PPPP", "kind": "Jam Track", "image": "https://raw.githubusercontent.com/raphvlrt/fortnite-chest-tracker/main/rewards/w3-jam-pppp.png" },
+    { "id": "w3-loading", "item": "weekly-loading-screen", "week": 3, "name": "May Fortune Find You", "kind": "Loading Screen", "image": "https://raw.githubusercontent.com/raphvlrt/fortnite-chest-tracker/main/rewards/w3-loading-may-fortune-find-you.webp" }
+  ]
+}
