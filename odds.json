@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "season": "Treasure Hunters — Chapter 7 Mini-Season 1",
+  "mode": "Battle Royale",
+  "period": "2026-11-01 → 2026-12-05",
+  "periodStart": "2026-11-01",
+  "lastVerified": "2026-11-11",
+  "scope": "Chance per chest opened, outside Treasure Hours. Rewards are granted to your account automatically. Each weekly item can only be obtained once per week (gizmos excepted).",
+  "items": [
+    {
+      "id": "weekly-gold-outfit",
+      "name": "Weekly Gold Outfit",
+      "icon": "outfit",
+      "oneIn": 1562500,
+      "status": "official",
+      "treasureHoursMultiplier": 7.5,
+      "treasureHoursStatus": "official",
+      "note": "Week 1: Solid Gold A$AP Rocky. Week 2: Solid Gold Lil Uzi Vert."
+    },
+    {
+      "id": "pirate-shop-access",
+      "name": "Pirate Shop Access",
+      "icon": "token",
+      "oneIn": 137500,
+      "status": "official",
+      "treasureHoursMultiplier": 1.5,
+      "treasureHoursStatus": "official",
+      "note": "Free Item Shop access (2026 & 2027). Epic says the Treasure Hours boost may sometimes be higher; one session reached 2x."
+    },
+    {
+      "id": "weekly-vehicle-decal",
+      "name": "Weekly Vehicle & Decal",
+      "icon": "vehicle",
+      "oneIn": 7813,
+      "status": "official",
+      "treasureHoursMultiplier": 10,
+      "treasureHoursStatus": "official",
+      "note": "Week 1: Mercedes-AMG G 63 and Golden Llama Crew decal. Week 2: Gold Cadillac Blackwing."
+    },
+    {
+      "id": "weekly-pickaxe-backbling",
+      "name": "Weekly Pickaxe or Back Bling",
+      "icon": "pickaxe",
+      "oneIn": 568,
+      "status": "official",
+      "treasureHoursMultiplier": null,
+      "treasureHoursStatus": null,
+      "note": "Week 1: Solid Gold A$AP Rocky Gauntlets. Week 2: Lil' Uzi Crew."
+    },
+    {
+      "id": "weekly-jam-track",
+      "name": "Weekly Jam Track",
+      "icon": "music",
+      "oneIn": 391,
+      "status": "official",
+      "treasureHoursMultiplier": null,
+      "treasureHoursStatus": null,
+      "note": "Week 1: No Trespassing. Week 2: London."
+    },
+    {
+      "id": "weekly-loading-screen",
+      "name": "Weekly Loading Screen",
+      "icon": "image",
+      "oneIn": 272,
+      "status": "official",
+      "treasureHoursMultiplier": null,
+      "treasureHoursStatus": null,
+      "note": "Week 1: Plunder in Paradise. Week 2: So Kawaii."
+    },
+    {
+      "id": "any-gizmo",
+      "name": "Any Gizmo",
+      "icon": "gizmo",
+      "oneIn": 127,
+      "status": "official",
+      "treasureHoursMultiplier": null,
+      "treasureHoursStatus": null,
+      "note": "Extraction Accelerator, Portable Extractor, Golden Firework, Sprite Locator or Lucky Locator."
+    }
+  ],
+  "treasureHours": {
+    "note": "Times in UTC. confirmed = announced by Epic (@FortniteStatus); otherwise expected from the Saturday pattern (2-4 pm and 9-11 pm ET). Update when Epic announces a session.",
+    "sessions": [
+      { "start": "2026-11-07T19:00:00Z", "end": "2026-11-07T21:00:00Z", "confirmed": true },
+      { "start": "2026-11-08T02:00:00Z", "end": "2026-11-08T04:00:00Z", "confirmed": true },
+      { "start": "2026-11-14T19:00:00Z", "end": "2026-11-14T23:00:00Z", "confirmed": true },
+      { "start": "2026-11-15T02:00:00Z", "end": "2026-11-15T04:00:00Z", "confirmed": false },
+      { "start": "2026-11-21T19:00:00Z", "end": "2026-11-21T21:00:00Z", "confirmed": false },
+      { "start": "2026-11-22T02:00:00Z", "end": "2026-11-22T04:00:00Z", "confirmed": false },
+      { "start": "2026-11-28T19:00:00Z", "end": "2026-11-28T21:00:00Z", "confirmed": false },
+      { "start": "2026-11-29T02:00:00Z", "end": "2026-11-29T04:00:00Z", "confirmed": false }
+    ]
+  },
+  "sources": [
+    {
+      "label": "@FortniteStatus on X — official Epic Games account (7 Nov 2026)",
+      "url": "https://x.com/FortniteStatus/status/2119202610322227327",
+      "kind": "primary",
+      "note": "Original publication: all seven base rates and the Treasure Hours multipliers (1.5x Pirate Shop, 7.5x gold outfit, 10x vehicle & decal). Future Treasure Hours may be higher and are announced by Epic."
+    },
+    {
+      "label": "Video Games Chronicle — 9 Nov 2026",
+      "url": "https://www.videogameschronicle.com/news/fortnite-officially-confirms-pirate-shop-access-token-drop-rate-as-players-hunt-for-item-which-makes-entire-shop-free/",
+      "kind": "press",
+      "note": "All seven base rates; Pirate Shop 1.5x during Treasure Hours, \"may sometimes be higher\"."
+    },
+    {
+      "label": "Destructoid — 9 Nov 2026",
+      "url": "https://www.destructoid.com/all-fortnite-treasure-hunters-loot-odds-and-drop-rates-explained/",
+      "kind": "press",
+      "note": "All seven base rates and the 7.5x (gold outfit) and 10x (vehicle & decal) Treasure Hours multipliers."
+    },
+    {
+      "label": "Game Rant — 1 Nov 2026",
+      "url": "https://gamerant.com/fortnite-treasure-chest-free-rewards-how-it-works/",
+      "kind": "press",
+      "note": "Weekly reward names; any chest in Battle Royale can drop a reward."
+    }
+  ],
+  "caveats": [
+    "Whether Rare chests, Sprite chests and refilled chests use the same rates has not been confirmed individually.",
+    "Regular chest loot (weapons, consumables, rarity tiers) is not published by Epic. Only datamined estimates exist, so none are shown here.",
+    "Rates are independent for every chest: there is no pity system and no guarantee after any number of chests.",
+    "Some Treasure Hours have a higher boost, announced by Epic (on 7 Nov 2026, 9–11 pm ET: 2x Pirate Shop and 10x gold outfit)."
+  ]
+}
