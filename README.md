@@ -4,7 +4,7 @@ By TikTok [@raphvlrt](https://www.tiktok.com/@raphvlrt) · Discord: https://disc
 
 Windows app that counts the chests you open in every Fortnite game, with an overlay for your stream, your game history, a leaderboard, a rewards checklist and the drop odds. In English, French, Spanish, Chinese and Arabic.
 
-**[⬇️ Download the latest version](https://github.com/raphvlrt/fortnite-chest-tracker/releases/latest/download/Fortnite-Chest-Tracker-Setup-1.0.5.exe)** (Windows installer, 118 MB). The app then updates itself.
+**[⬇️ Download the latest version](https://github.com/raphvlrt/fortnite-chest-tracker/releases/latest/download/Fortnite-Chest-Tracker-Setup-1.0.6.exe)** (Windows installer, 118 MB). The app then updates itself.
 
 **🌐 Website: [chest-tracker.pages.dev](https://chest-tracker.pages.dev)**, open to everyone. Sign in with Discord or Google in the app (Settings › Account) to see your stats on your phone or any computer, or count your chests by hand on console and mobile.
 
